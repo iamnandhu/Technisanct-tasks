@@ -30,7 +30,6 @@
     align-items: flex-start;
     padding: 20px 48px;
     gap: 10px;
-    
     width: 202px;
     height: 64px;
     left: 120px;
@@ -55,4 +54,13 @@
     width:fit-content;
     border-radius: 0;
    
+}
+@media only screen and (min-width:991px){
+    .see-plans{
+        position: absolute;
+
+    }
+    .join{
+        position: absolute;
+    }
 }

@@ -13,12 +13,13 @@ const CenterSection = () => {
                         <div className="center-content">
                             <h2>Search and find <br />your best courses <br/> the easy way </h2>
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa voluptatem dolorum earum perspiciatis maiores maxime corporis at ea amet ut<br/>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis, sit? Velit enim magni placeat a. </p>
-
+                        </div>
                             <div className="buttons">
-                                <button className='join btn btn-primary'>Join us now!</button><button className='see-plans btn'>See all plans</button>
+                                <span><button className='join btn btn-primary'>Join us now!</button></span>
+                                <span><button className='see-plans btn'>See all plans</button></span>
                             </div>
                             
-                        </div>
+                        
                     </Col>
 
                     <Col lg='6' md='6' className='illus-1'>
