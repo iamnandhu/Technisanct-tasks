@@ -1,11 +1,58 @@
-.btn-primay{
-    background-color: #1B1AFF !important;
-    
-}
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500&display=swap');
+
+
 .illus-1{
     height: 670.95px;
     width: 530.42px;
 }
 .see_plans{
     outline: none;
+}
+.center-content h2{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 72px;
+
+}
+.center-content p{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color:#1C1C1C
+}
+.join{
+    background-color:#1B1AFF ;
+    font-family:'Plus Jakarta Sans', sans-serif;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 20px 48px;
+    gap: 10px;
+    
+    width: 202px;
+    height: 64px;
+    left: 120px;
+    top: 500px;
+    border-radius: 8px;
+}
+.see-plans{
+    
+    width: 140px;   
+    height: 23px;
+    left: 370px;
+    top: 510px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #1C1C1C;
+    padding-bottom: 30px;
+    border-bottom: solid;
+    border-bottom-width: 3.1px;
+    width:fit-content;
+    border-radius: 0;
+   
 }

@@ -1,9 +1,15 @@
 import React from 'react'
 import {Container,Row,Col} from 'reactstrap'
+import './company.css'
 
 
 export const Company = () => {
-  return <section>
+  return <Container className='companyContainer'>
+            <Row> 
+                <h1 className='colab'>Collaborate with 100+ leading universities and comapnies</h1>
+                <p className='colab2'>WOC has contributed to students so that they can work in their dream company,<br/> we will continue to stick to our commitment to create an advanced generation,</p>
+            </Row>
+           
             <Row>
                 <Col lg='2' md='3'>
                     <h2 className='d-flex align-items-center gap-1'><i class="ri-google-fill"></i>Google</h2>
@@ -25,7 +31,7 @@ export const Company = () => {
                 </Col>
                 
             </Row>
-         </section>
+         </Container>
 }
  
 export default Company;
