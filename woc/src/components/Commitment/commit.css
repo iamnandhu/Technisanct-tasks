@@ -1,0 +1,47 @@
+/*body{
+    font-family: 'Plus Jakarta Sans', sans-serif;    
+}
+.img,.text{
+    display: inline-block;
+    justify-content: space-around;
+    vertical-align: middle;
+    
+}
+.img{
+    width: 500.6px;
+    height: 50%;
+    vertical-align: middle;
+    margin-left: 50px;   
+    
+}*/
+.commit-btn{
+    background-color:#1B1AFF ;
+    padding: 20px 48px;
+    gap: 10px;
+    width: 202px;
+    height: 64px;
+    border-radius: 8px;
+    color: #ffff;
+    margin-left: 250px;
+}
+.text h1{
+   font-weight: 700;
+   font-size:48px ;
+    margin-left: 250px;
+    line-height: 64px;
+    padding-bottom: 25px;
+   
+}
+.text p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: height 32px;
+    margin-left: 250px;
+    padding-bottom:25px ;
+}
+@media (max-width:991px){
+    .text{
+        text-align: start;
+        margin-left: -40%;
+    }
+}

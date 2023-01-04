@@ -45,8 +45,8 @@ const Header = () => {
 
                             {
                                 navLinks.map((item,index)=>(
-                                    <li key={index} className='nav_item'>
-                                        <a href={item.url}>{item.display}</a>
+                                    <li key={index} className='nav_item '>
+                                        <a href={item.url} className=''>{item.display}</a>
                                     </li>
                                 ))
                             }
