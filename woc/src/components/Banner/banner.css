@@ -1,0 +1,28 @@
+
+.banner-container {
+    width:  100%;
+    height: 100vh;
+    background-image: url('../../assets/Background-1.png');
+    background-size: 1332px 512px ;
+}
+.banner-text{
+    margin-left: 400px;
+    padding-top: 150px;
+    display: flex;
+    vertical-align: center;
+    font-weight: 700;
+    size: 48px;
+    line-height: 56px;
+    align-self: center;
+    color: #ffff;
+    vertical-align: middle;
+}
+.banner-btn button{
+    background-color:#1c1c1c ;
+   margin-left: 650px;
+   width: 202px;
+   height: 64px;
+   border-radius: 8px;
+   color: #ffff;
+   border: none;
+}
