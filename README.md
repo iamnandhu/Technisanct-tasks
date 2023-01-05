@@ -32,7 +32,10 @@ Responsive web pages as provided in the Figma designs.
 
 ![ss5](https://github.com/iamnandhu/Technisanct-tasks/blob/master/progress-screenshots/Screenshot%20(10).png)
 
-6. Footer section 
+6. Footer section-1
 
 ![ss6](https://github.com/iamnandhu/Technisanct-tasks/blob/master/progress-screenshots/Screenshot%20(13).png)
+
+7.Footer section-2
+
 ![ss7](https://github.com/iamnandhu/Technisanct-tasks/blob/master/progress-screenshots/Screenshot%20(14).png)
