@@ -1,0 +1,30 @@
+
+.main-container{
+    color:white;
+    background-color: #1c1c1c;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-size: 1440px 232px;
+    
+    
+    
+}
+.row{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 50px;
+}
+.logo-text,.logo-footer{
+    display: inline-block;
+}
+.logo-text p{
+    position:relative;
+    font-size: 11px;
+    padding-left: 5px;
+    font-weight: 400;
+}
+
+.logo-footer img{
+    display: flex;
+}
